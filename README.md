@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **khristianie/khristianie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Data Analytics Portfolio
 
 Hi, I'm Khristianie — a software engineer with almost two decades of experience working with databases, APIs, system integrations and business-critical applications.
 
